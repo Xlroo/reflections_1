@@ -11,3 +11,19 @@ work done before commiting changes to the repository
 How can you use the staging area to make sure you have one commit per logical change?
 Compare the difference between the staging area and either working directory 
 or repository to make sure that the changes are not too big.
+
+What are some situations when branches would be helpful in keeping your history organized?
+ How would branches help?
+When making experimental changes 
+When working with other developers on a single project but various features.
+
+How do the diagrams help you visualize the branch structure?
+Diagrams help me convert abstract concept of git logs to something tangible
+that I can use to track my commmits .
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+All commits are accesible from one parent hence reachability is ensured on both branches .
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic merging might merge erroneous code.
+Doing it manually requires proper understanding of what the code does.
