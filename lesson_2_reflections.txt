@@ -2,3 +2,8 @@ What happens when you initialize a repository? Why do you need to do it?
 
 A hidden file with .git is created 
 Git highllights files as untracked 
+
+How is the staging area different from the working directory and the repository? 
+What value do you think it offers?
+The staging area works like an escrow that allows one to revert to previous
+work done before commiting changes to the repository
