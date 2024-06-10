@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+A hidden file with .git is created 
+Git highllights files as untracked 
